@@ -1,0 +1,290 @@
+[
+ {
+  "input": {
+   "age": 63.0,
+   "sex": 1.0,
+   "cp": 1.0,
+   "trestbps": 145.0,
+   "chol": 233.0,
+   "fbs": 1.0,
+   "restecg": 2.0,
+   "thalach": 150.0,
+   "exang": 0.0,
+   "oldpeak": 2.3,
+   "slope": 3.0,
+   "ca": 0.0,
+   "thal": 6.0
+  },
+  "proba": 0.17726020923109884
+ },
+ {
+  "input": {
+   "age": 67.0,
+   "sex": 1.0,
+   "cp": 4.0,
+   "trestbps": 160.0,
+   "chol": 286.0,
+   "fbs": 0.0,
+   "restecg": 2.0,
+   "thalach": 108.0,
+   "exang": 1.0,
+   "oldpeak": 1.5,
+   "slope": 2.0,
+   "ca": 3.0,
+   "thal": 3.0
+  },
+  "proba": 0.9972800028070489
+ },
+ {
+  "input": {
+   "age": 67.0,
+   "sex": 1.0,
+   "cp": 4.0,
+   "trestbps": 120.0,
+   "chol": 229.0,
+   "fbs": 0.0,
+   "restecg": 2.0,
+   "thalach": 129.0,
+   "exang": 1.0,
+   "oldpeak": 2.6,
+   "slope": 2.0,
+   "ca": 2.0,
+   "thal": 7.0
+  },
+  "proba": 0.9931124792784756
+ },
+ {
+  "input": {
+   "age": 37.0,
+   "sex": 1.0,
+   "cp": 3.0,
+   "trestbps": 130.0,
+   "chol": 250.0,
+   "fbs": 0.0,
+   "restecg": 0.0,
+   "thalach": 187.0,
+   "exang": 0.0,
+   "oldpeak": 3.5,
+   "slope": 3.0,
+   "ca": 0.0,
+   "thal": 3.0
+  },
+  "proba": 0.09462603778385482
+ },
+ {
+  "input": {
+   "age": 41.0,
+   "sex": 0.0,
+   "cp": 2.0,
+   "trestbps": 130.0,
+   "chol": 204.0,
+   "fbs": 0.0,
+   "restecg": 2.0,
+   "thalach": 172.0,
+   "exang": 0.0,
+   "oldpeak": 1.4,
+   "slope": 1.0,
+   "ca": 0.0,
+   "thal": 3.0
+  },
+  "proba": 0.03866593245800983
+ },
+ {
+  "input": {
+   "age": 56.0,
+   "sex": 1.0,
+   "cp": 2.0,
+   "trestbps": 120.0,
+   "chol": 236.0,
+   "fbs": 0.0,
+   "restecg": 0.0,
+   "thalach": 178.0,
+   "exang": 0.0,
+   "oldpeak": 0.8,
+   "slope": 1.0,
+   "ca": 0.0,
+   "thal": 3.0
+  },
+  "proba": 0.05940659984962144
+ },
+ {
+  "input": {
+   "age": 62.0,
+   "sex": 0.0,
+   "cp": 4.0,
+   "trestbps": 140.0,
+   "chol": 268.0,
+   "fbs": 0.0,
+   "restecg": 2.0,
+   "thalach": 160.0,
+   "exang": 0.0,
+   "oldpeak": 3.6,
+   "slope": 3.0,
+   "ca": 2.0,
+   "thal": 3.0
+  },
+  "proba": 0.7808270238409141
+ },
+ {
+  "input": {
+   "age": 57.0,
+   "sex": 0.0,
+   "cp": 4.0,
+   "trestbps": 120.0,
+   "chol": 354.0,
+   "fbs": 0.0,
+   "restecg": 0.0,
+   "thalach": 163.0,
+   "exang": 1.0,
+   "oldpeak": 0.6,
+   "slope": 1.0,
+   "ca": 0.0,
+   "thal": 3.0
+  },
+  "proba": 0.10883924008640705
+ },
+ {
+  "input": {
+   "age": 63.0,
+   "sex": 1.0,
+   "cp": 4.0,
+   "trestbps": 130.0,
+   "chol": 254.0,
+   "fbs": 0.0,
+   "restecg": 2.0,
+   "thalach": 147.0,
+   "exang": 0.0,
+   "oldpeak": 1.4,
+   "slope": 2.0,
+   "ca": 1.0,
+   "thal": 7.0
+  },
+  "proba": 0.9512090936226911
+ },
+ {
+  "input": {
+   "age": 53.0,
+   "sex": 1.0,
+   "cp": 4.0,
+   "trestbps": 140.0,
+   "chol": 203.0,
+   "fbs": 1.0,
+   "restecg": 2.0,
+   "thalach": 155.0,
+   "exang": 1.0,
+   "oldpeak": 3.1,
+   "slope": 3.0,
+   "ca": 0.0,
+   "thal": 7.0
+  },
+  "proba": 0.8366274167895806
+ },
+ {
+  "input": {
+   "age": 53.0,
+   "sex": 0.0,
+   "cp": 3.0,
+   "trestbps": 128.0,
+   "chol": 216.0,
+   "fbs": 0.0,
+   "restecg": 2.0,
+   "thalach": 115.0,
+   "exang": 0.0,
+   "oldpeak": 0.0,
+   "slope": 1.0,
+   "ca": 0.0,
+   "thal": null
+  },
+  "proba": 0.03466113851524818
+ },
+ {
+  "input": {
+   "age": 52.0,
+   "sex": 1.0,
+   "cp": 3.0,
+   "trestbps": 138.0,
+   "chol": 223.0,
+   "fbs": 0.0,
+   "restecg": 0.0,
+   "thalach": 169.0,
+   "exang": 0.0,
+   "oldpeak": 0.0,
+   "slope": 1.0,
+   "ca": null,
+   "thal": 3.0
+  },
+  "proba": 0.04465488518959257
+ },
+ {
+  "input": {
+   "age": 43.0,
+   "sex": 1.0,
+   "cp": 4.0,
+   "trestbps": 132.0,
+   "chol": 247.0,
+   "fbs": 1.0,
+   "restecg": 2.0,
+   "thalach": 143.0,
+   "exang": 1.0,
+   "oldpeak": 0.1,
+   "slope": 2.0,
+   "ca": null,
+   "thal": 7.0
+  },
+  "proba": 0.8896497816265392
+ },
+ {
+  "input": {
+   "age": 52.0,
+   "sex": 1.0,
+   "cp": 4.0,
+   "trestbps": 128.0,
+   "chol": 204.0,
+   "fbs": 1.0,
+   "restecg": 0.0,
+   "thalach": 156.0,
+   "exang": 1.0,
+   "oldpeak": 1.0,
+   "slope": 2.0,
+   "ca": 0.0,
+   "thal": null
+  },
+  "proba": 0.48346916329106066
+ },
+ {
+  "input": {
+   "age": 58.0,
+   "sex": 1.0,
+   "cp": 2.0,
+   "trestbps": 125.0,
+   "chol": 220.0,
+   "fbs": 0.0,
+   "restecg": 0.0,
+   "thalach": 144.0,
+   "exang": 0.0,
+   "oldpeak": 0.4,
+   "slope": 2.0,
+   "ca": null,
+   "thal": 7.0
+  },
+  "proba": 0.5480031621975942
+ },
+ {
+  "input": {
+   "age": 38.0,
+   "sex": 1.0,
+   "cp": 3.0,
+   "trestbps": 138.0,
+   "chol": 175.0,
+   "fbs": 0.0,
+   "restecg": 0.0,
+   "thalach": 173.0,
+   "exang": 0.0,
+   "oldpeak": 0.0,
+   "slope": 1.0,
+   "ca": null,
+   "thal": 3.0
+  },
+  "proba": 0.04132081607263189
+ }
+]
